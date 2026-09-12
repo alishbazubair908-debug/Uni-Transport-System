@@ -1,0 +1,14 @@
+Admin,EMP-2001,Kalsoom,35202-0804776-0,lahore; Badami bagh,kalsoom@gmail.com,0340-5717100,40,FEMALE,kalsoom123,Head of Transport,200000,2020-09-09,SUPER_ADMIN
+Student,STU-1004,Maryam,32202-0804776-4,Lahore; SultanPura,maryam@gmail.com,0350-5717166,18,FEMALE,maryam123,2025-CS-635,Computer Science,2,0
+Student,STU-1001,Malaika,35202-0804776-4,Lahore;Badami Bagh,malaika@gmail.com,0340-5717166,18,FEMALE,malaika123,2025-CS-634,Computer Science,2,1
+Student,STU-1003,Alishba,35202-0804667-4,Lahore; Anarkali,alishba@gmail.com,0340-5715774,18,FEMALE,alishba123,2025-CS-619,Computer Science,2,0
+Student,STU-1005,Ali,35202-9804776-4,karachi,ali@gmail.com,0340-5717145,19,MALE,ali12345,2024-CS-230,Computer Science,4,0
+Student,STU-1006,Kashif,35302-0804776-4,Lahore,kashif@gmail.com,0340-5727166,20,MALE,kashif123,2025-EE-123,Electrical Engineering,2,0
+Student,STU-1007,Sara,35202-0803776-4,Islamabad,sara@gmail.com,0340-5717266,20,FEMALE,sara12345,2022-SE-677,Software Engineering,8,0
+Student,STU-1008,Haris,35202-0804886-4,Lahore,haris@gmail.com,0340-5717129,19,MALE,haris12345,2025-ME-566,Mechanical Engineering,2,0
+Student,STU-1009,Yumna,35202-0802776-3,Lahore,yumna@gmail.com,0340-4717166,20,FEMALE,yumna123,2023-AI-444,Artificial Intelligence,6,0
+Student,STU-1010,Mahpara,35202-0805664-4,Badar Colony;Lahore,mahpara@gmail.com,0323-6310300,18,FEMALE,mahpara123,2025-CS-999,Computer Science,2,0
+Student,STU-1011,Gohar,35202-6804776-4,Lahore,gohar@gmail.com,0340-2717188,18,MALE,gohar123,2025-DS-777,Data Science,2,0
+Admin,EMP-2003,Tanveer,35404-0905777-3,Lahore,tanveer@gmail.com,0340-2222222,35,MALE,tanveer123,Finance Manager,300000,2020-09-09,FINANCE_MANAGER
+Admin,EMP-2002,Haleema,34202-0302775-4,Islamabad,haleema@gmail.com,0359-6767677,29,MALE,haleema123,Transport Manager,500000,2024-09-09,TRANSPORT_MANAGER
+Driver,DRV-2006,Sahil,35202-0000000-5,lahore,s@gmail.com,0340-0000000,28,MALE,sahil123,Driver,340000,2020-09-09,LHR-12345,0,V1

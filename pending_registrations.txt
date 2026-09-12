@@ -1,0 +1,2 @@
+Eisha,35303-0702779-2,Sheikhupura,eisha@gmail.com,0350-6718399,18,FEMALE,2025-CS-625,Computer Science,2
+Jawed,35202-6809999-5,Gujranwala,jawed@gmail.com,0323-6815900,20,MALE,2024-AI-555,Artificial Intelligence,4
